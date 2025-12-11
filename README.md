@@ -33,6 +33,6 @@ This assignment covers the fundamentals of CSS, including selectors, properties,
 
 ---
 
-**Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
+**Course:** CS 648 - Modern Web Development Frameworks<br>
 **University:** San Diego State University (SDSU)<br>
 **Author:** Merlyn Mercylona M
