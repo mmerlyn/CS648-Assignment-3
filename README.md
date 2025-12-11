@@ -1,6 +1,6 @@
 # CS648-Assignment-3
 
-_This README serves as a summary and guide for Module 03 on CSS, providing context, key learnings, and usage instructions for practical implementation._
+_This repo demonstrates CSS fundamentals including various selector types (class, ID, attribute, pseudo-selectors), styling properties, and multi-page website design through a corporate website for a company._
 
 ## Overview
 
@@ -30,17 +30,6 @@ This assignment covers the fundamentals of CSS, including selectors, properties,
 - Use of shorthand properties (e.g., `background`, `border`)
 - Proper application of font, text, and layout-related CSS properties
 - Improved understanding of positioning (`relative`, `absolute`, `fixed`, `sticky`)
-
-## Usage
-
-1. Link your CSS file to an HTML document using the `<link>` tag for external styles.
-2. Apply class or id selectors to HTML elements as needed.
-3. Use CSS properties to define styling rules according to your design requirements.
-4. Test the layout and style in a browser to ensure it works as expected.
-
-## Reflection
-
-Through this module, I strengthened my understanding of CSS selectors, shorthand properties, and positioning techniques. I now have better clarity on writing maintainable CSS and targeting elements efficiently without overcomplicating the HTML structure.
 
 ---
 
