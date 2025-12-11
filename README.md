@@ -43,3 +43,7 @@ Through this module, I strengthened my understanding of CSS selectors, shorthand
 ---
 
 _This README serves as a summary and guide for Module 03 on CSS, providing context, key learnings, and usage instructions for practical implementation._
+
+**Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
+**University:** San Diego State University (SDSU)<br>
+**Author:** Merlyn Mercylona M
