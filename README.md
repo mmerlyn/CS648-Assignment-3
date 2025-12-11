@@ -1,5 +1,7 @@
 # CS648-Assignment-3
 
+_This README serves as a summary and guide for Module 03 on CSS, providing context, key learnings, and usage instructions for practical implementation._
+
 ## Overview
 
 This assignment covers the fundamentals of CSS, including selectors, properties, and styling techniques. The goal is to understand how CSS works, how to apply different types of selectors, and how to use various properties to style HTML elements effectively.
@@ -41,8 +43,6 @@ This assignment covers the fundamentals of CSS, including selectors, properties,
 Through this module, I strengthened my understanding of CSS selectors, shorthand properties, and positioning techniques. I now have better clarity on writing maintainable CSS and targeting elements efficiently without overcomplicating the HTML structure.
 
 ---
-
-_This README serves as a summary and guide for Module 03 on CSS, providing context, key learnings, and usage instructions for practical implementation._
 
 **Course:** CS 648 - Advanced Topics in Web and Mobile Applications<br>
 **University:** San Diego State University (SDSU)<br>
