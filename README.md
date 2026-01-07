@@ -22,7 +22,7 @@ This assignment covers the fundamentals of CSS, including selectors, properties,
   - Block, box, and border properties
   - List and positioning properties
 
-## Key Learnings
+## Learnings
 
 - Difference between class (`.`) and id (`#`) selectors
 - Understanding type selectors and descendant selectors
